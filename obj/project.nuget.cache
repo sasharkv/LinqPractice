@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r2vFEziyd7QbvPnAeeASfOLsrMmnYsK8TS6FAwOkc3G5F1JzHwD59WAyxBmisfD/mo7H58Gv+K6zkKC55naOpQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Sasha\\OneDrive\\Documents\\Sublime\\WPFW_4th_opdracht_LINQ\\WPFW_4th_opdracht.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sasha\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sasha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sasha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sasha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
